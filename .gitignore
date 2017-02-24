@@ -30,7 +30,7 @@
 /MiniLudumDare/*.unitypackage
 
 # Other
-/Ignored-By-Git/
+/ignoredByGit/
 
 # OS generated 
 .DS_Store
